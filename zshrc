@@ -35,11 +35,3 @@ source $ZSH/oh-my-zsh.sh
 
 # Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
 export PATH="$PATH:$HOME/.rvm/bin"
-
-# Setup
-# chsh -s $(which zsh)
-# pacaur -S oh-my-zsh-git zsh-theme-powerlevel9k adobe-source-code-pro-fonts
-# mkdir ~/.zsh
-# cp /usr/share/zsh-theme-powerlevel9k ~/.zsh/themes/powerlevel9k/
-# set xfce-terminal font "Source Code Pro for Powerline"
-
