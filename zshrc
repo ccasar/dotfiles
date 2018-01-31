@@ -1,3 +1,4 @@
+export TERM="xterm-256color" 
 ZSH=/usr/share/oh-my-zsh/
 ZSH_CUSTOM=~/.zsh
 
