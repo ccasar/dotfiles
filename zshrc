@@ -2,6 +2,7 @@ export TERM="xterm-256color"
 ZSH=/usr/share/oh-my-zsh/
 ZSH_CUSTOM=~/.zsh
 
+export PATH="$PATH:$HOME/bin"
 
 DISABLE_AUTO_UPDATE="true"
 
